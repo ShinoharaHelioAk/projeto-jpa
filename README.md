@@ -1,0 +1,1 @@
+Curso de JPA + Hibernate da plataforma Alura. Nome do Projeto: projeto-jpa
